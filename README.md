@@ -19,17 +19,15 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 flatpak install flathub org.vinegarhq.Vinegar -y
 flatpak run org.vinegarhq.Vinegar
 ```
-##### Adding Models to Roblox Studio
+##### Adding 3D Models to Roblox Studio
 ```
 flatpak override --user --filesystem=home org.vinegarhq.Vinegar
 ```
 >[!TIP]
->
+> By default, Your C-Drive named *drive_c* is located at `~/.var/app/org.vinegarhq.Vinegar/data/vinegar/prefixes/studio`, where you can copy your models to.
 
 ##### Configuring Vinegar
-```
-```
-
+<img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/img/MainMenu.png" width="300" alt="Logo"/> <img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/img/ConfigMenu.png" width="300" alt="Logo"/> 
 
 ##### Configuration of Vinegar
 ```
