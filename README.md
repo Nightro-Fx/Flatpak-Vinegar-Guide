@@ -23,6 +23,8 @@ flatpak run org.vinegarhq.Vinegar
 ```
 flatpak override --user --filesystem=home org.vinegarhq.Vinegar
 ```
+>[!TIP]
+>
 
 ##### Configuring Vinegar
 ```
@@ -38,7 +40,7 @@ renderer = "Vulkan"
 > Refer to the Official Vinegar Documentation for Configuration Details:
 > [Vinegar Configuration Guide](https://vinegarhq.org/Configuration/)
 
-##### Adding FastFlags To Studio
+##### Adding Performance FastFlags To Studio (Optional)
 ```
 [studio.fflags]
 DFIntTaskSchedulerTargetFps = 120
