@@ -8,7 +8,7 @@
 #### ❤️ Acknowledgements  
 Massive shoutout to the [Official Vinegar Discord Server](https://discord.gg/vinegarhq-1069506340973707304) for providing me the resources and the information needed to make this guide possible.
 
-###### Installing Roblox Studio from Flatpak
+##### Installing Roblox Studio from Flatpak
 ```bash
 sudo apt update
 sudo apt upgrade -y
@@ -18,4 +18,25 @@ sudo apt install flatpak gnome-software-plugin-flatpak -y
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install flathub org.vinegarhq.Vinegar -y
 flatpak run org.vinegarhq.Vinegar
+```
+
+##### Adding Models to Roblox Studio
+```
+flatpak override --user --filesystem=home org.vinegarhq.Vinegar
+```
+
+##### Configuring Vinegar
+```
+```
+
+
+##### Configuration of Vinegar
+```
+
+```
+
+##### Adding FastFlags To Studio
+```
+[studio.fflags]
+DFIntTaskSchedulerTargetFps = 100
 ```
