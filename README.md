@@ -22,6 +22,7 @@ flatpak run org.vinegarhq.Vinegar
 ##### Adding 3D Models to Roblox Studio
 ```
 flatpak override --user --filesystem=home org.vinegarhq.Vinegar
+flatpak override --user --show org.vinegarhq.Vinegar
 ```
 >[!TIP]
 > By default, Your C-Drive named *drive_c* is located at `~/.var/app/org.vinegarhq.Vinegar/data/vinegar/prefixes/studio`, where you can copy your models to.
