@@ -6,7 +6,7 @@
 </html>
 
 #### ❤️ Acknowledgements  
-Massive shoutout to the [Official Vinegar Discord Server](https://discord.gg/vinegarhq-1069506340973707304) for providing me the resources and the information needed to make this guide possible.
+Thank you [VinegarHQ](https://vinegarhq.org/) for making this guide possible. Further support will be provided over my support server, [Here](https://discord.gg/kNHaaFsGZ2).
 
 ##### Installing Roblox Studio from Flatpak
 ```bash
