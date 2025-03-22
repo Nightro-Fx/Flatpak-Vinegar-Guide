@@ -27,7 +27,7 @@ flatpak override --user --filesystem=home org.vinegarhq.Vinegar
 > By default, Your C-Drive named *drive_c* is located at `~/.var/app/org.vinegarhq.Vinegar/data/vinegar/prefixes/studio`, where you can copy your models to.
 
 ##### Configuring Vinegar
-<img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/img/MainMenu.png" width="300" alt="Logo"/> <img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/img/ConfigMenu.png" width="300" alt="Logo"/> <img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/img/Documentation.png" width="300" alt="Logo"/> 
+<img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/img/Main%20Menu.png" width="300" alt="Logo"/> <img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/img/Config%20Menu.png" width="300" alt="Logo"/> <img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/img/Documentation.png" width="300" alt="Logo"/> 
 
 ##### Configuration of Vinegar
 ```
