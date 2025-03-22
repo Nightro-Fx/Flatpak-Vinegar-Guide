@@ -1,6 +1,6 @@
 <body>
     <h1 align="center">
-        <img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/image.png" width="40" alt="Logo"/> 
+        <img src="https://github.com/Nightro-Fx/Flatpak-Vinegar-Guide/blob/main/img/Flathub.png" width="40" alt="Logo"/> 
         Flatpak Vinegar Studio Guide
     </h1>
 </html>
